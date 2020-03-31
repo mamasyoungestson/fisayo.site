@@ -48,9 +48,8 @@ From the analysis, it was my goal to understand the climate of the adoption proc
 
 To highlight the challenges:
 
-* Test
+**-** Adoption felt like a very long process
 
+**-** There is a lack of exposure to information regarding adoptions. Individuals remain ignorant 
 
-* Adoption felt like a very long process
-
-2\. There is a lack of information 
+**-** mKpk
