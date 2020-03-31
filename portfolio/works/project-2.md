@@ -54,6 +54,6 @@ My aim was to come up with solutions that could be tested and iterated upon as s
 
 <p align="center">
 
-![](/upload/wireframes2-1.png)
+![](/upload/wireframes2-1.png "Test")
 
 </p>
