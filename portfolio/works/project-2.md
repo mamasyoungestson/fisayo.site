@@ -34,4 +34,10 @@ With further investigation, more key issues were highlighted that can be condens
 
 ### Understanding Perceptions
 
-By analyzing available data I already began conceiving possible solutions. It was important that I first better understand how individuals (users — parents, families, adoption institutions ) perceived the adoption process. Perceptions 
+By analyzing available data I already began conceiving possible solutions. It was important that I first better understand how individuals (users — parents, families, adoption institutions ) perceived the adoption process. I create and test out ideas and assumptions through users' perceptions of the adoption process. To achieve this I used most widely known tools with a bit of craftiness.
+
+**_Tools Used_**
+
+1\. User interviews — In adoption-related forums, adoptions agencies, finding questions to answers in FAQs
+
+2\. Surveys — Also through adoption-related forums
