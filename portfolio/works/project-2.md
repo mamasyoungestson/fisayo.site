@@ -34,12 +34,6 @@ With this Kin wants to play a major part in finding every child a home and overc
 
 By analyzing available data I already began conceiving possible solutions. It was important that I first better understand how individuals (users — parents, families, adoption institutions ) perceived the adoption process. I create and test out ideas and assumptions through users' perceptions of the adoption process. To achieve this I used interviews and surveys creatively.
 
-**_Tools Used_**
-
-1\. User interviews
-
-2\. Surveys
-
 Information gathered and interpreted echoed most of the information analyzed from reports, surveys, studies, numerical data, etc. As mentioned before, now I have a deeper understanding of the process and how to use available technology to make my best guesses and assumptions which I will be able to test.
 
 ## 02 Think — Ideation
