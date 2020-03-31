@@ -53,3 +53,5 @@ To highlight the challenges:
 **-** There is a lack of exposure to information and support regarding adoptions. Individuals expressed lack of knowledge, confusion, nervousness, and fear of the adoption process
 
 **-** Individuals who were invested in the adoption process illustrated feelings of overwhelm and anxiety
+
+### Formulating Solutions
