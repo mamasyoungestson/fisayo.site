@@ -36,6 +36,6 @@ By analyzing available data I already began conceiving possible solutions. It wa
 
 **_Tools Used_**
 
-1\. User interviews — In adoption-related forums, adoptions agencies, finding questions to answers in FAQs
+1\. User interviews — In adoption-related forums, adoptions agencies, finding answers to questions FAQs
 
 2\. Surveys — Also through adoption-related forums
