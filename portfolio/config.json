@@ -1,28 +1,28 @@
 {
-    "title": "Fisayo Olashore",
-    "description": "Creative Agency",
-    "logo": "/upload/logo.svg",
-    "footer": "Ⓒ Fisayo",
-    "favicon": "favicon-32x32.png",
-    "navigation": [
-      {
-        "text": "FISAYO.",
-        "link": "/",
-        "position": "left",
-        "external": false
-      },
-      {
-        "text": "Instagram",
-        "link": "https://www.instagram.com/conceptsfromf.o",
-        "position": "right",
-        "external": true
-      },
-      {
-        "text": "Say Hi",
-        "desc": "for work",
-        "link": "mailto:fisayo.olashore@gmail.com",
-        "position": "right",
-        "external": true
-      }
-    ]
-  }
+  "title": "Fisayo Olashore",
+  "description": "Creative Agency",
+  "logo": "",
+  "footer": "Ⓒ Fisayo",
+  "favicon": "",
+  "navigation": [
+    {
+      "text": "FISAYO.",
+      "link": "/",
+      "position": "left",
+      "external": false
+    },
+    {
+      "text": "Instagram",
+      "link": "https://www.instagram.com/conceptsfromf.o",
+      "position": "right",
+      "external": true
+    },
+    {
+      "text": "Say Hi",
+      "desc": "for work",
+      "link": "mailto:fisayo.olashore@gmail.com",
+      "position": "right",
+      "external": true
+    }
+  ]
+}
