@@ -16,6 +16,10 @@ Child adoption made easier for parents, families, and institutions.
 
 ## About Kin
 
+**&nbsp;**
+
+**&nbsp;**
+
 ### Project Goals
 
 Given there was a lack of resources that solved problems related to child adoption. Kin aims to provide a better way for people to complete the adoption process by:
