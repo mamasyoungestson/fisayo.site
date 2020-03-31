@@ -36,6 +36,8 @@ By analyzing available data I already began conceiving possible solutions. It wa
 
 Information gathered and interpreted echoed most of the information analyzed from reports, surveys, studies, numerical data, etc. As mentioned before, now I have a deeper understanding of the process and how to use available technology to make my best guesses and assumptions which I will be able to test.
 
+<hr>
+
 ## 02 Think — Ideation
 
 From the analysis, it was my goal to understand the climate of the adoption process (focusing on the problems and challenges) and the perception of individuals towards.
@@ -51,9 +53,3 @@ To highlight the challenges:
 ### Formulating Solutions
 
 My aim was to come up with solutions that could be tested and iterated upon as soon as possible (a bulk of visual designs solutions were completed within a week). The process involved sketches, wireframes, micro design systems, highly functional prototypes.
-
-<p align="center">
-
-![](/upload/wireframes2-1.png)
-
-</p>
