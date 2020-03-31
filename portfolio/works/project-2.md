@@ -32,7 +32,7 @@ With this Kin wants to play a major part in finding every child a home and overc
 
 ### Understanding Perceptions
 
-By analyzing available data I already began conceiving possible solutions. It was important that I first better understand how individuals (users — parents, families, adoption institutions ) perceived the adoption process. I create and test out ideas and assumptions through users' perceptions of the adoption process. To achieve this I used most widely known tools with a bit of craftiness.
+By analyzing available data I already began conceiving possible solutions. It was important that I first better understand how individuals (users — parents, families, adoption institutions ) perceived the adoption process. I create and test out ideas and assumptions through users' perceptions of the adoption process. To achieve this I used interviews and surveys creatively.
 
 **_Tools Used_**
 
