@@ -36,10 +36,12 @@ By analyzing available data I already began conceiving possible solutions. It wa
 
 **_Tools Used_**
 
-1\. User interviews — In adoption-related forums, adoptions agencies, finding answers to questions FAQs
+1\. User interviews
 
-2\. Surveys — Also through adoption-related forums
+2\. Surveys
 
 Information gathered and interpreted echoed most of the information analyzed from reports, surveys, studies, numerical data, etc. As mentioned before, now I have a deeper understanding of the process and how to use available technology to make my best guesses and assumptions which I will be able to test.
 
 ## 02 Think — Ideation
+
+From research analysis, it was my goal to understand the climate of the adoption process (focusing on the problems and challenges), the perception of individuals towards adoption and improve in areas of the adoption process that seem to work already.
