@@ -12,7 +12,7 @@ categories:
 
 Child adoption made easier for parents, families, and institutions.
 
-![](/upload/Start.png)
+![](/upload/OnboardingPresentation(12-12-2019) comp.gif)
 
 ### About Kin
 
