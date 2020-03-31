@@ -1,7 +1,7 @@
 ---
 title: Kin
 date: 2018-08-09T18:05:37.000+00:00
-thumbnail: "/upload/Start.png"
+thumbnail: ''
 year: 2016
 description: A Case Study
 categories:
