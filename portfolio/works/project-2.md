@@ -14,7 +14,7 @@ Child adoption made easier for parents, families, and institutions.
 
 ![](/upload/Start.png)
 
-## About Kin
+## About Kin?
 
 ### Project Goals
 
