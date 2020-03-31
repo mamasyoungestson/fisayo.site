@@ -28,9 +28,7 @@ With this Kin wants to play a major part in finding every child a home and overc
 
 ## 01 Learn — Research & Analysis
 
-Available data gave insight into the state of adoption domestically for the U.S. and globally. U.S Department of State provides data that shows there has been a decline in the number of adoptions in the U.S and globally in recent years (about 13 years). In the U.S the AFCARS Report #26 reports hundreds of thousands of children in foster care/or waiting to be adopted.
-
-With further investigation, more key issues (financial, health, legal) were highlighted that can be condensed into the lack of information and support during the adoption process. The lack of conveying reliable and accessible information and support causes individuals to remain in ignorance and fear about adoptions, hence the decrease in adoption rates. It should also be noted that data has shown not only are adoption rates decreasing but there is a corresponding increase in the number of children being admitted into financial institutions like foster care. The problems are very much visible.
+![](/upload/Learn.png)
 
 ### Understanding Perceptions
 
