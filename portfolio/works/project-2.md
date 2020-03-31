@@ -26,4 +26,4 @@ Given there was a lack of resources that solved problems related to child adopti
 
 With this Kin wants to play a major part in finding every child a home and overcome the problem of the decreasing adoption success rates throughout the world.
 
-# 01 Learn - Research & Analysis
+## 01 Learn - Research & Analysis
