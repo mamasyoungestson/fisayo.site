@@ -12,6 +12,8 @@ categories:
 
 Child adoption made easier for parents, families, and institutions.
 
+![](/upload/OnboardingPresentation(12-12-2019) comp.gif)
+
 ## About Kin
 
 ### Project Goals
