@@ -33,3 +33,5 @@ Available data gave insight into the state of adoption domestically for the U.S.
 With further investigation, more key issues were highlighted that can be condensed into the lack of information and support during the adoption process. The lack of conveying reliable and accessible information and support causes individuals to remain in ignorance and fear about adoptions, hence the decrease in adoption rates. It should also be noted that data has shown not only are adoption rates decreasing but there is a corresponding increase in the number of children being admitted into financial institutions like foster care. The problems are very much visible.
 
 ### Understanding Perceptions
+
+By analyzing available data I already began conceiving possible solutions. It was important that I first better understand how individuals (users — parents, families, adoption institutions ) perceived the adoption process. Perceptions 
