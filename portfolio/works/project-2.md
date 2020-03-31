@@ -1,7 +1,7 @@
 ---
 title: Kin
 date: 2018-08-09T18:05:37.000+00:00
-thumbnail: "/upload/OnboardingPresentation(12-12-2019) comp.gif"
+thumbnail: "/upload/photo-1516906736502-5d3fedc3019a.jpeg"
 year: 2016
 description: A Case Study
 categories:
@@ -14,4 +14,4 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 This is a test!
 
-![](/upload/photo-1516906736502-5d3fedc3019a.jpeg)
+![](/upload/OnboardingPresentation(12-12-2019) comp.gif)
