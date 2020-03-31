@@ -41,3 +41,5 @@ By analyzing available data I already began conceiving possible solutions. It wa
 2\. Surveys — Also through adoption-related forums
 
 Information gathered and interpreted echoed most of the information analyzed from reports, surveys, studies, numerical data, etc. As mentioned before, now I have a deeper understanding of the process and how to use available technology to make my best guesses and assumptions which I will be able to test.
+
+## 02 Think — Ideation
