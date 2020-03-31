@@ -44,4 +44,10 @@ Information gathered and interpreted echoed most of the information analyzed fro
 
 ## 02 Think — Ideation
 
-From research analysis, it was my goal to understand the climate of the adoption process (focusing on the problems and challenges), the perception of individuals towards adoption and improve in areas of the adoption process that seem to work already.
+From the analysis, it was my goal to understand the climate of the adoption process (focusing on the problems and challenges) and the perception of individuals towards.
+
+To highlight the challenges:
+
+* Adoption felt like a very long process
+
+2\. There is a lack of information 
