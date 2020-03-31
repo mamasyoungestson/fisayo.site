@@ -57,5 +57,3 @@ To highlight the challenges:
 ### Formulating Solutions
 
 My aim was to come up with solutions that could be tested and iterated upon as soon as possible (a bulk of visual designs solutions were completed within a week). The process involved sketches, wireframes, micro design systems, highly functional prototypes.
-
-![](/upload/wireframes2.png)
