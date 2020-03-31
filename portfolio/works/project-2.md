@@ -50,6 +50,6 @@ To highlight the challenges:
 
 **-** Adoption felt like a very long process
 
-**-** There is a lack of exposure to information regarding adoptions. Individuals remain ignorant 
+**-** There is a lack of exposure to information and support regarding adoptions. Individuals remain ignorant and fearful of adoptions
 
 **-** mKpk
