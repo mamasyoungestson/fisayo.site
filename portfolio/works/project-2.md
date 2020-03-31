@@ -10,8 +10,6 @@ categories:
 ---
 # Kin
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-This is a test!
+Child adoption made easier for parents, families, and institutions.
 
 ![](/upload/Start.png)
