@@ -45,7 +45,7 @@
     padding: 2rem 0;
     width: 100%;
     max-width: 800px;
-    margin: 3rem auto /*auto*/ 3rem auto;
+    /* margin: 3rem auto /*auto 3rem auto; */
   }
 
   .column {
@@ -61,6 +61,10 @@
     font-weight: 400;
   }
 
+  .categories:before {
+    margin-bottom: 1rem;
+  }
+  
   .categories:after {
     content: ', ';
   }

@@ -1,7 +1,7 @@
 ---
 title: Kin
 date: 2018-08-09T18:05:37.000+00:00
-thumbnail: ''
+thumbnail: '/upload/Start.png'
 year: 2016
 description: A Case Study
 categories:
@@ -14,6 +14,8 @@ Child adoption made easier for parents, families, and institutions.
 
 ![](/upload/Start.png)
 
+<hr>
+
 ## About Kin
 
 ### Project Goals
@@ -25,6 +27,7 @@ Given there was a lack of resources that solved problems related to child adopti
 2\. Providing information, support and access specialized to professionals and experts throughout the whole adoption process.
 
 With this Kin wants to play a major part in finding every child a home and overcome the problem of the decreasing adoption success rates throughout the world.
+
 
 ## 01 Learn — Research & Analysis
 
@@ -52,4 +55,47 @@ To highlight the challenges:
 
 ### Formulating Solutions
 
-My aim was to come up with solutions that could be tested and iterated upon as soon as possible (a bulk of visual designs solutions were completed within a week). The process involved sketches, wireframes, micro design systems, highly functional prototypes.
+My aim was to come up with solutions that could be tested and iterated upon as soon as possible (a bulk of visual designs solutions were completed within a week). The process involved sketches, user experiecnce architecture and visual strategy (user journeys, micro design systems, wireframes, prototypes).
+
+![](/upload/wireframes2-1.png)
+
+### Designing The System
+
+This process involved modular building of various parts of the system. First foundation variables were built (color, typography, iconography, grid and spacing system). These were the building blocks in which all other design components were built.
+
+![](/upload/DesigningTheSystem1.png)
+![](/upload/DesigningTheSystem2.png)
+
+<hr>
+
+## 03 Test
+
+### Design To Test Early
+
+Our goal was to design and test solutions as early as possible. User testing enabled us to figure out what worked and what didn't work. It provided great insight into the mind of the user and allowed us to focus on solving important user problems and challenges.
+
+![](/upload/DesignFastTestEarly.jpg)
+
+<hr>
+
+## Design Solutions
+
+<video src="/upload/OnboardingPresentationForWebsite(3-31-2020).mp4" autoplay="autoplay" playsinline="" loop="loop" muted="muted" crossorigin="anonymous" type="video/mp4" class="main" style="transform: scaleX(1) scaleY(1) scaleZ(1);"></video>
+
+<video src="/upload/ConnectForWebsite(3-31-2020).mp4" autoplay="autoplay" playsinline="" loop="loop" muted="muted" crossorigin="anonymous" type="video/mp4" class="main" style="transform: scaleX(1) scaleY(1) scaleZ(1);"></video>
+
+<p class="photoInfo">
+<b>Connection Solution:</b> Empowering birth parents, adoptive families, and adoption institutions to easily and accessibility connect with each other. With this, we aim to improve relationships to lead to more sucessful adoptions.
+</p>
+
+<video src="/upload/Support_1_ForWebsite(3-31-2020).mp4" autoplay="autoplay" playsinline="" loop="loop" muted="muted" crossorigin="anonymous" type="video/mp4" class="main" style="transform: scaleX(1) scaleY(1) scaleZ(1);"></video>
+
+![](/upload/Support.jpg)
+
+<p class="photoInfo">
+<b>Support Solution:</b> Taking advantage of the accessibility of mobile applications to provide information and support (professional and expert services) throughout and after the adoption process.
+</p>
+
+![](/upload/Screens.jpg)
+
+![](/upload/More_screens_signoff.jpg)

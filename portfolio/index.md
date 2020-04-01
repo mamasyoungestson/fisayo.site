@@ -1,6 +1,6 @@
 ---
 works_index: true
-hero_text: Fisayo is a Product Designer based in Philadelphia.
+hero_text: Fisayo is a Designer based in Philadelphia.
 title: Home
 
 ---

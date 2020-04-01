@@ -16,7 +16,7 @@
       </div>
 
       <!-- Single project view -->
-      <div v-if="isSingleProject">
+      <div class="single-project" v-if="isSingleProject">
         <SingleProjectHeader
           :title="$page.frontmatter.title"
           :year="$page.frontmatter.year.toString()"
@@ -111,9 +111,9 @@
   
 
   body {
-    font-family: "CircularStd", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Noto Sans", "Ubuntu", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Noto Sans", "Ubuntu", "Droid Sans", "Helvetica Neue", sans-serif;
     font-size: 16px;
-    background: #fff;
+    background: #FEF3E8;
     color: var(--color-black);
   }
 
@@ -124,8 +124,17 @@
     margin: 2rem 0;
   }
 
+  video {
+    width: 100%;
+    max-width: 100%;
+    line-height: 0;
+    margin: .5rem 0;
+  }
+
   .container {
-    padding: 0 5vw;
+    /* padding: 0 5vw; */
+    max-width: 60rem; 
+    margin: 0 auto;
   }
 
   .journal-list, .single-journal {
@@ -136,32 +145,40 @@
 
   h1,h2,h3,h4,h5,h6,p {
     width: 100%;
-    max-width: 800px;
+    /* max-width: 800px; */
   }
 
   h1 {
-    font-size: 3rem;
+    font-size: 6rem;
     line-height: 1.15;
-    font-weight: 300;
-    margin: 0 auto 3rem auto;
+    font-weight: 500;
+    /* margin: 0 auto 3rem auto; */
+    margin: 3rem 0;
   }
 
   h2 {
     font-size: 2rem;
-    font-weight: 300;
-    margin: 2rem auto 2rem auto;
+    font-weight: 500;
+    /* margin: 2rem auto 2rem auto; */
+    margin: 6rem 0;
   }
 
   h3 {
     font-size: 1rem;
     font-weight: 700;
-    margin: 2rem auto 1rem auto;
+    /* margin: 2rem auto 1rem auto; */
+    margin: 1rem 0;
   }
 
   p {
     font-size: 1rem;
     line-height: 1.5;
-    margin: 1rem auto 2rem auto;
+    /* margin: 1rem auto 2rem auto; */
+    margin-bottom: 2rem;
+    /* font-family: "CircularStd";
+    font-weight: normal;
+    font-style: normal; */
+    color: #333333;
   }
 
   pre {
@@ -176,6 +193,26 @@
     font-size: 0.8rem;
     padding: 0.05rem 0.25rem;
     font-weight: 400;
+  }
+
+  .single-project {
+    padding: 5vw;
+  }
+
+  hr {
+    content: "";
+    color: #595959;
+    max-width: 100%;
+    margin: 4rem auto;
+    overflow: hidden;
+    border-style: solid;
+    border-width: 1px; 
+    height: 1px;
+    
+  }
+
+  .photoInfo {
+    font-size: .8rem;
   }
 
 </style>
