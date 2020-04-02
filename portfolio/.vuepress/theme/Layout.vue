@@ -128,7 +128,8 @@
     width: 100%;
     max-width: 100%;
     line-height: 0;
-    margin: .5rem 0;
+    /* margin: .5rem 0; */
+    margin: 2rem 0;
   }
 
   .container {
@@ -165,6 +166,13 @@
 
   h3 {
     font-size: 1rem;
+    font-weight: 700;
+    /* margin: 2rem auto 1rem auto; */
+    margin: 1rem 0;
+  }
+
+  h4 {
+    font-size: .8rem;
     font-weight: 700;
     /* margin: 2rem auto 1rem auto; */
     margin: 1rem 0;
