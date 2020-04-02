@@ -4,13 +4,13 @@ date: 2018-08-01 00:00:00 +0000
 thumbnail: "/upload/Well/WellThumbnail.jpg"
 year: 2018
 categories:
-- Creative Direction Content Creation Branding Interface Design Interaction 
+- CREATIVE DIRECTION / INTERFACE DESIGN / INTERACTION DESIGN
 description: A Case Study
 
 ---
 # Well.
 
-Well. is an app which the main goal is to provide researched holistic health information for people. It aims to inform and empower individuals to take control of their health (which is physical, mental and spiritual) and make better health decisions with a fun, calm, no pressure approach.
+Well. is an app in which the main goal is to provide researched holistic health information for people. It aims to inform and empower individuals to take control of their health (which is physical, mental and spiritual) and make better health decisions with a fun, calm, no-pressure approach.
 
 ![](/upload/Well/WellThumbnail.jpg)
 
@@ -20,17 +20,17 @@ Well. is an app which the main goal is to provide researched holistic health inf
 
 ### Project Goals
 
-Well aims to focus on providing holistic health information to empowers individuals to take control of health and make better choices for their well being. Studies show increase in major illnesses like cancer, diabetes and cardiovascular related diseases which are the leading causes of death worldwide. Well wants to affect people's daily lives and habits and improve health worldwide.
+Well aims to focus on providing holistic health information to empowers individuals to take control of health and make better choices for their well being. Studies show an increase in major illnesses like cancer, diabetes and cardiovascular-related diseases which are the leading causes of death worldwide. Well wants to affect people's daily lives and habits and improve health worldwide.
 
 ## 01 Research & Analysis
 
-There are a lot of health issues in the U.S. and globally. There are a lot of positives when it comes to health and health care but there issues that still need to be addressed. Obesity, diabetes, heart-related diseases have been on the [rise for the last 30 years](https://www.americashealthrankings.org/) and are the leading causes of death per anum. Despite spending billions of dollars each year the population has not seen major improvements to treating these diseases let alone prevent them.
+There are copious data and information regarding health. It was important to gather reliable and relevant information while also being able to streamline and converge the needed data. There are a lot of health issues in the U.S. and globally. There are a lot of positives when it comes to health and health care, however, there are issues that still need to be addressed. Obesity, diabetes, and heart-related diseases are examples of major diseases that have been on the [rise for the last 30 years](https://www.americashealthrankings.org/) and are the leading causes of death annually. Despite spending billions of dollars spent each year, the population has not seen major improvements to treating these diseases let alone prevent them.
 
-Over the last few years there has been more time and money invested into holistic and alternative medicine. People are more acceptive of new forms of treatment and information on health. The main concern is better health for everyone not which form of health information, practices and treatment is better.
+Over the last few years, there has been more time and money invested in holistic and alternative medicine. People are more accepting of new forms of treatment and information on health. The main concern is better health for everyone not which form of health information, practices and treatment is better.
  
 ### Understanding The User
 
-The plan was to get regarding users and their values. I needed to ask the right questions during discussions with the user to get an understanding as to how users' day to day activities and how these activities play major roles in their current state of health. Are they conscious of their health? How do they manage stress? How do they spend their free time? What do they prefer ordering take out or home-cooked meals? The aim is to create digital solutions that would seamlessly integrate with different personalites and the day to day activities of the user.
+The plan was to get regarding users and their values. I needed to ask the right questions during discussions with the user to get an understanding as to how users' day to day activities and how these activities play major roles in their current state of health. Are they conscious of their health? How do they manage stress? How do they spend their free time? What do they prefer ordering take out or home-cooked meals? The aim is to create digital solutions that would seamlessly integrate with different personalities and the day to day activities of the user.
 
 ![](/upload/Well/WellUserDiscussions.jpg)
 <p class="photoInfo">
@@ -46,16 +46,17 @@ Using first concepts high fidelity prototpyes early in the design process was he
 ## 02 Ideate
 
 ### User Experience Architecture & Visual Strategy
-The entire design structure followed a design system where the UX architecture and UI focused heavily on design system elements and their functionality. The design system served as the building blocks for the creation of wireframes and functional prototypes. Information architecture was very important to know the layout of the application and how the user interacts with the information. The goal was to provide an experience that was easy to use, functional and asthetically pleasing.
+
+The entire design structure followed a design system where the UX architecture and UI focused heavily on design system elements and their functionality. The design system served as the building blocks for the creation of wireframes and functional prototypes. Information architecture was very important to know the layout of the application and how the user interacts with the information. The goal was to provide an experience that was easy to use, functional and aesthetically pleasing.
 
 
 ### Designing The System
 
-I fisrt began with the base variables that lay the main structure for the system. The foundation allows me to make better design decisions moving forward and makes it easier to build design components. Color, typography, grid and spacing, etc are the variables for the foundation elements.
+I first began with the base variables that lay the main structure for the system. The foundation allows me to make better design decisions moving forward and makes it easier to build design components. Color, typography, grid, and spacing, etc are the variables for the foundation elements.
 
 #### Color
 
-The main color palette used in Well defined the main pages, headers, screen background, and body text and many of the design elements. The colors choosen were used to communicate a happy, joyous, calm and health-promoting mood. We want the users to feel great engaging with the app. Also, we want them to feel that they are making a positive impact in their lives as the make changes in their mind, body, and spirit through de-stressing, nutrition, exercise, valuable health information and much more.
+The main color palette used in Well defined the main pages, headers, screen background, and body text and many of the design elements. The colors chosen were used to communicate a happy, joyous, calm and health-promoting mood. We want the users to feel great engaging with the app. Also, we want them to feel that they are making a positive impact in their lives as they make changes for their mind, body, and spirit through de-stressing, nutrition, exercise, valuable health information and much more.
 
 ![](/upload/Well/Colors.jpg)
 
@@ -68,10 +69,9 @@ We needed a typography hierarchy that promoted a happy and calm design communica
 
 #### Grid & Spacing
 
-For the grid and spacing, I proposed using 8px grid, using multiples of 8 to define dimensions, padding, and margin of elements. With more detailed adjustments,
-a 4px spacing rule was adopted. It was very important that elements aligned but vertically and horizontally. The grid layout consisted of 24px margins and 8px gutter.  Although, with these rules sometimes exceptions are needed.
+For the grid and spacing, I proposed using an 8px grid, using multiples of 8 to define dimensions, padding, and margin of elements. With more detailed adjustments, a 4px spacing rule was adopted. It was very important that elements aligned but vertically and horizontally. The grid layout consisted of 24px margins and 8px gutter. Although, with these rules sometimes exceptions are needed.
 
-![](/upload/Well/GridSystem.jpg)
+![](/upload/Well/GridSystem.png)
 
 #### Design Components
 
@@ -84,11 +84,11 @@ Some Design Components
 
 ### Early Design Concpets
 
-As mentioned, the design system architecture was used to build wireframes to visually create design solutions and information structure. The wireframes were translated in to early concept prototpyes that users tested. 
+As mentioned, the design system architecture was used to build wireframes to visually create design solutions and information structure. The wireframes were translated into early concept prototypes that users tested. 
 
 ![](/upload/Well/WireframeUserJourney.png)
 <p class="photoInfo">
-Wireframes 
+Wireframes and Simplified User Flow
 </p>
 
 ![](/upload/Well/Prototypes.png)
@@ -102,16 +102,36 @@ Early Concept Prototypes
 
 ### Testing With Prototypes
 
-Gain user insight early — approached with a design quick and test early method using developed prototypes while asking important questions to users that tested the prototypes. The purpose was to to gain deeper understanding with the user and test hypotheses earlier on in the design process rather than later. Prototypes were tesred with first time users to observe a fresh communication between the users and the app. We also decided to re-test with repreat users to see how well we imporoved in our solutions and of course re-test assumptions.
+Gain user insight early — approached with a design quick and test early method. We used developed prototypes while observing users as they used the product. The purpose was to gain a deeper understanding of the user and test hypotheses earlier on in the design process rather than later. Prototypes were tested with first-time users to observe a fresh communication between the users and the app. We also decided to re-test with repeat users to see how well we improved in our solutions and of course re-test assumptions.
 
 
 ![](/upload/Well/TestEarly.jpg)
 <p class="photoInfo">
-Screens from developed protyotypes to gain deeper user understanding and test hypotheses early
+Screens from developed prototypes to gain deeper user understanding and test hypotheses early
 </p>
 
 
 <hr>
 
 ## Design Solutions
+
+![](/upload/Well/Homepage.jpg)
+<p class="photoInfo">
+Homepage
+</p>
+
+![](/upload/Well/InfoGuides.jpg)
+<p class="photoInfo">
+Providing users valuable information on all things holistic health-related
+</p>
+
+![](/upload/Well/Lifestyle.jpg)
+<p class="photoInfo">
+Great health requires a lifestyle. Well wants to change lifestyles seamlessly to empowers individuals to make better health choices
+</p>
+
+![](/upload/Well/WellScreens.jpg)
+<p class="photoInfo">
+Screens — Articles, recipes, herb guide, mineral guide, books and more
+</p>
 

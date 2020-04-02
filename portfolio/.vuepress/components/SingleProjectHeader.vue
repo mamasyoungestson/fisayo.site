@@ -11,7 +11,7 @@
       <span class="value">{{ year }}</span>
     </div> -->
 
-    <div class="column">
+    <div class="columnCategories">
       <Label class="label">Work</Label>
       <span class="value categories" v-for="category in categories" v-text="category" />
     </div>
@@ -49,7 +49,13 @@
   }
 
   .column {
-    flex: 0 0 20%/*33.33%*/;
+    flex: 0 0 20% 33.33% 
+  }
+
+  .columnCategories {
+    display: flex;
+    flex-direction: column;
+    font-size: .75rem;
   }
 
   .label {
