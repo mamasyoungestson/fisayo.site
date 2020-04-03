@@ -144,4 +144,4 @@ Our solutions for the major challenges can be broken down into two categories ma
 
 ![](/upload/Kin/More_screens_signoff.jpg)
 
-### You Can Learn More Or Just <a class="workAtag" href="mailto:fisayo.olashore@gmail.com">Connect</a>
+### You can learn more or just <a class="workAtag" href="mailto:fisayo.olashore@gmail.com">connect</a>

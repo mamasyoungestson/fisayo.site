@@ -137,4 +137,4 @@ Great health requires a lifestyle. Well wants to change lifestyles seamlessly to
 Screens — Articles, recipes, herb guide, mineral guide, books and more
 </p>
 
-### You Can Learn More Or Just <a class="workAtag" href="mailto:fisayo.olashore@gmail.com">Connect</a>
+### You can learn more or just <a class="workAtag" href="mailto:fisayo.olashore@gmail.com">connect</a>
