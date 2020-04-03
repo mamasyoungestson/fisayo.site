@@ -52,6 +52,7 @@
     padding: 0.5rem 1rem;
     background: rgba(255,255,255, 1);
     max-width: 400px;
+    color: #1c1c1c;
   }
 
   .info h2 {

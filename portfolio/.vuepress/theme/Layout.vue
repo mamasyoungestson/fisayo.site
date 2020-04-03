@@ -84,7 +84,18 @@
 
   :root {
     --color-black: #1c1c1c;
+    --text-black: #333333;
     --color-highlight: rgba(249, 233, 172, 0.99);
+    --background: #FEF3E8;
+  }
+
+  @media (prefers-color-scheme: dark) {
+  
+    :root {
+      --background: #333333;
+      --color-black: #ffffff;
+      --text-black: #ffffff;
+    }
   }
 
   * {
@@ -113,7 +124,7 @@
   body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Noto Sans", "Ubuntu", "Droid Sans", "Helvetica Neue", sans-serif;
     font-size: 16px;
-    background: #FEF3E8;
+    background: var(--background);
     color: var(--color-black);
   }
 
@@ -154,7 +165,7 @@
     line-height: 1.15;
     /* margin: 0 auto 3rem auto; */
     margin: 3rem 0;
-    font-family: 'Abril Fatface',  -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Noto Sans", "Ubuntu", "Droid Sans", "Helvetica Neue", sans-serif;
+    /* font-family: 'Abril Fatface',  -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Noto Sans", "Ubuntu", "Droid Sans", "Helvetica Neue", sans-serif; */
   }
 
   h2 {
@@ -162,7 +173,7 @@
     font-weight: 500;
     /* margin: 2rem auto 2rem auto; */
     margin: 6rem 0;
-    font-family: 'Abril Fatface', -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Noto Sans", "Ubuntu", "Droid Sans", "Helvetica Neue", sans-serif;
+    /* font-family: 'Abril Fatface', -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Noto Sans", "Ubuntu", "Droid Sans", "Helvetica Neue", sans-serif; */
   }
 
   h3 {
@@ -187,7 +198,7 @@
     /* font-family: "CircularStd";
     font-weight: normal;
     font-style: normal; */
-    color: #333333;
+    color: var(--text-black);
   }
 
   pre {
