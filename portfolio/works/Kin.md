@@ -1,8 +1,8 @@
 ---
 title: Kin
-date: 2019-08-14 00:00:00 +0000
+date: 09-25-19
 thumbnail: '/upload/Kin/Start.png'
-year: 2016
+year: 2019
 description: A Case Study
 categories:
 - CREATIVE DIRECTION / INTERFACE DESIGN / INTERACTION DESIGN
