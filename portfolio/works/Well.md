@@ -24,13 +24,15 @@ Well aims to focus on providing holistic health information to empowers individu
 
 ## 01 Research & Analysis
 
-There are copious data and information regarding health. It was important to gather reliable and relevant information while also being able to streamline and converge the needed data. There are a lot of health issues in the U.S. and globally. There are a lot of positives when it comes to health and health care, however, there are issues that still need to be addressed. Obesity, diabetes, and heart-related diseases are examples of major diseases that have been on the [rise for the last 30 years](https://www.americashealthrankings.org/) and are the leading causes of death annually. Despite spending billions of dollars spent each year, the population has not seen major improvements to treating these diseases let alone prevent them.
+There are copious data and information regarding health. It was important to gather reliable and relevant information while also being able to streamline and converge the needed data. There are a lot of health issues in the U.S. and globally. There are a lot of positives when it comes to health and health care, however, there are issues that still need to be addressed. Obesity, diabetes, and heart-related diseases are examples of major diseases that have been on the [rise for the last 30 years](https://www.americashealthrankings.org/) and are the leading causes of death annually. Despite spending billions of dollars spent each year, the population has not seen major improvements in preventing such diseases.
 
-Over the last few years, there has been more time and money invested in holistic and alternative medicine. People are more accepting of new forms of treatment and information on health. The main concern is better health for everyone not which form of health information, practices and treatment is better.
+Information shows that diet, alcohol, physical activities affects the risk of certain diseases. Holistic health provides practices that help in all areas of a person's life that lead to better health. Over the last few years, there has been more time and money invested in holistic and alternative medicine. People are more accepting of new forms of treatment and information on health. Numbers have shown that holistic treatment is more affordable than it's conventional counterpart.  
+
+The main concern is better health for everyone. Well does not want to replace health care, it wants to help provide holistic health solutions to individuals that are accessible and affordable for people's modern lives.
  
 ### Understanding The User
 
-The plan was to get regarding users and their values. I needed to ask the right questions during discussions with the user to get an understanding as to how users' day to day activities and how these activities play major roles in their current state of health. Are they conscious of their health? How do they manage stress? How do they spend their free time? What do they prefer ordering take out or home-cooked meals? The aim is to create digital solutions that would seamlessly integrate with different personalities and the day to day activities of the user.
+The plan was to get regarding users and their values. I needed to ask the right questions during discussions with the user to get an understanding as to how users' day to day activities and how these activities play major roles in their current state of health. Are they conscious of their health? How do they manage stress? What is their level of income? How do they spend their free time? What do they prefer ordering take out or home-cooked meals? The aim is to create digital solutions that would seamlessly integrate with different personalities and the day to day activities of the user.
 
 ![](/upload/Well/WellUserDiscussions.jpg)
 <p class="photoInfo">
@@ -135,3 +137,4 @@ Great health requires a lifestyle. Well wants to change lifestyles seamlessly to
 Screens — Articles, recipes, herb guide, mineral guide, books and more
 </p>
 
+### You Can Learn More Or Just <a class="workAtag" href="mailto:fisayo.olashore@gmail.com">Connect</a>

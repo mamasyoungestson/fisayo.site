@@ -152,9 +152,9 @@
   h1 {
     font-size: 6rem;
     line-height: 1.15;
-    font-weight: 500;
     /* margin: 0 auto 3rem auto; */
     margin: 3rem 0;
+    font-family: 'Abril Fatface',  -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Noto Sans", "Ubuntu", "Droid Sans", "Helvetica Neue", sans-serif;;
   }
 
   h2 {
@@ -162,6 +162,7 @@
     font-weight: 500;
     /* margin: 2rem auto 2rem auto; */
     margin: 6rem 0;
+    font-family: 'Abril Fatface', -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Noto Sans", "Ubuntu", "Droid Sans", "Helvetica Neue", sans-serif;;
   }
 
   h3 {
@@ -221,6 +222,25 @@
 
   .photoInfo {
     font-size: .8rem;
+  }
+
+  .workAtag {
+    color: var(--color-black);
+    margin: 3rem 0;
+    cursor: pointer;
+    /* border-bottom: 1px solid transparent; */
+    transition-duration: 0.3s;
+    transition-property: transform;
+    transition-timing-function: ease-out;
+  }
+
+  .workAtag:hover {
+    text-decoration: none;
+    color: #FB0D1B;
+    transition-duration: 0.3s;
+    transition-property: transform;
+    transition-timing-function: ease-out;
+    transform: translateY(-2px);
   }
 
 </style>
