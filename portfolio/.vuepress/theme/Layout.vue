@@ -154,7 +154,7 @@
     line-height: 1.15;
     /* margin: 0 auto 3rem auto; */
     margin: 3rem 0;
-    font-family: 'Abril Fatface',  -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Noto Sans", "Ubuntu", "Droid Sans", "Helvetica Neue", sans-serif;;
+    font-family: 'Abril Fatface',  -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Noto Sans", "Ubuntu", "Droid Sans", "Helvetica Neue", sans-serif;
   }
 
   h2 {
@@ -162,7 +162,7 @@
     font-weight: 500;
     /* margin: 2rem auto 2rem auto; */
     margin: 6rem 0;
-    font-family: 'Abril Fatface', -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Noto Sans", "Ubuntu", "Droid Sans", "Helvetica Neue", sans-serif;;
+    font-family: 'Abril Fatface', -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Noto Sans", "Ubuntu", "Droid Sans", "Helvetica Neue", sans-serif;
   }
 
   h3 {
