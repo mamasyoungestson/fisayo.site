@@ -1,6 +1,6 @@
 ---
 title: Well
-date: 08-25-19
+date: 2019-08-25
 thumbnail: "/upload/Well/WellThumbnail.jpg"
 year: 2018
 categories:

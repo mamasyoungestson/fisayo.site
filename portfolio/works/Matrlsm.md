@@ -1,6 +1,6 @@
 ---
 title: Matrlsm
-date: 03-25-19
+date: 2019-03-25
 thumbnail: "/upload/MatrlsmThumb.jpg"
 year: 2017
 categories:

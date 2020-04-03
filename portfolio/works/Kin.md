@@ -1,6 +1,6 @@
 ---
 title: Kin
-date: 09-25-19
+date: 2019-09-25
 thumbnail: '/upload/Kin/Start.png'
 year: 2019
 description: A Case Study
