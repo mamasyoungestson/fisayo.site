@@ -128,11 +128,20 @@ Our solutions for the major challenges can be broken down into two categories ma
 
 <video src="/upload/Kin/ConnectForWebsite(3-31-2020).mp4" autoplay playsinline loop= muted crossorigin="anonymous" type="video/mp4" class="main" style="transform: scaleX(1) scaleY(1) scaleZ(1);"></video>
 
+<video autoplay playsinline loop muted crossorigin="anonymous">
+  <source src="/upload/Kin/OnboardingPresentationForWebsite(3-31-2020).mp4" type="video/mp4">
+  <source src="/upload/Kin/ConnectForWebsite(3-31-2020).mp4" type="video/mp4">
+</video>
+
 <p class="photoInfo">
 <b>Connection Solution:</b> Empowering birth parents, adoptive families, and adoption institutions to easily and accessibility connect. With this, we aim to attract more individuals to invest in adoptions and improve relationships during the adoption process to lead to higher success rates. 
 </p>
 
 <video src="/upload/Kin/Support_1_ForWebsite(3-31-2020).mp4" autoplay playsinline loop muted crossorigin="anonymous" type="video/mp4" class="main" style="transform: scaleX(1) scaleY(1) scaleZ(1);"></video>
+
+<video autoplay playsinline loop muted crossorigin="anonymous">
+  <source src="/upload/Kin/Support_1_ForWebsite(3-31-2020).mp4" type="video/mp4">
+</video>
 
 ![](/upload/Kin/Support.jpg)
 
