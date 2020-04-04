@@ -80,7 +80,7 @@
       </nav>
 
        <div class="mobile-nav-toggle" @click="toggleMobileNav">
-        <h4>MENU</h4>
+        <h4 class="moreBtn">MORE</h4>
       </div>
 
     </div>
@@ -215,11 +215,15 @@
     display: none;
   }
 
+  .moreBtn {
+    margin: 0;
+  }
+
   .mobile-nav {
     display: flex;
     justify-content: space-between;
     position: absolute;
-    background: #ffffff;
+    background: var(--background2);
     top: 0;
     left: 0;
     width: 100vw;
@@ -256,10 +260,14 @@
     content: '';
     right: 0;
     top: 0;
+    margin-top: 1.8rem;
+    margin-right: 1.5rem;
     width: 3rem;
     height: 3rem;
-    padding: 3rem;
+    padding: 1rem;
     background-image: url('/close.svg');
+    border-radius: 50%;
+    background-color: #ffffff;
     background-position: center;
     background-size: 1.5rem;
     background-repeat: no-repeat;

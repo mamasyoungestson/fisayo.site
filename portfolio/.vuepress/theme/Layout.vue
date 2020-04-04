@@ -87,12 +87,14 @@
     --text-black: #333333;
     --color-highlight: rgba(249, 233, 172, 0.99);
     --background: #FEF3E8;
+    --background2: #ffffff;
   }
 
   @media (prefers-color-scheme: dark) {
   
     :root {
       --background: #333333;
+      --background2: #333333;
       --color-black: #ffffff;
       --text-black: #ffffff;
     }
@@ -144,7 +146,7 @@
   }
 
   .container {
-    /* padding: 0 5vw; */
+    padding: 0 5vw; 
     max-width: 60rem; 
     margin: 0 auto;
   }
@@ -216,7 +218,7 @@
   }
 
   .single-project {
-    padding: 5vw;
+    /* padding: 5vw; */
   }
 
   hr {

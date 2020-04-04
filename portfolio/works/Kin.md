@@ -1,7 +1,7 @@
 ---
 title: Kin
 date: 2019-09-25
-thumbnail: '/upload/Kin/Start.png'
+thumbnail: '/upload/Kin/kinthumb.jpg'
 year: 2019
 description: A Case Study
 categories:
