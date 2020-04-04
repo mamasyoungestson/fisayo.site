@@ -22,7 +22,7 @@ export default {
     letter-spacing: 0.1rem;
     width: 80vw /*800px*/;
     max-width: 100%;
-    margin: 0 auto 7vw 0;
+    margin: 5rem auto 7vw 0;
     padding: 2rem 0 0 0;
   }
 

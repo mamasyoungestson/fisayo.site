@@ -3,9 +3,9 @@ title: Kin
 date: 2019-09-25
 thumbnail: '/upload/Kin/kinthumb.jpg'
 year: 2019
-description: A Case Study
 categories:
 - CREATIVE DIRECTION / INTERFACE DESIGN / INTERACTION DESIGN
+description: A Case Study
 
 ---
 # Kin

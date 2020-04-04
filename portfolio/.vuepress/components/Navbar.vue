@@ -28,7 +28,7 @@
       </ul>
     </nav>
 
-    <!-- <div class="brand">
+    <div class="brand">
       <router-link to="/">
         <div
           v-if="logo"
@@ -38,7 +38,7 @@
         />
         <span v-else>{{ $site.title }}</span>
       </router-link>
-    </div> -->
+    </div> 
 
     <nav v-if="navLinks" class="navigation right desktop-nav">
       <ul>
@@ -61,7 +61,7 @@
 
     <div class="mobile-nav-head">
 
-      <nav v-if="navLinks" class="test navigation left">
+      <nav v-if="navLinks" class="navigation left">
       <ul>
         <router-link
           v-for="nav in navLinks"
@@ -73,9 +73,6 @@
           v-text="nav.text"
           exact
         />
-        <li v-for="nav in navLinks" v-if="nav.position === 'left' && nav.external">
-          <a :href="nav.link" target="_blank">{{ nav.text }}</a>
-        </li>
       </ul>
       </nav>
 
@@ -275,8 +272,8 @@
     cursor: pointer;
   }
 
-  .mobile-nav-toggle {
-    /* display: block;
+  /* .mobile-nav-toggle {
+     display: block;
     width: 3rem;
     height: 3rem;
     background-image: url('/burger.svg');
@@ -284,8 +281,8 @@
     background-size: 1.5rem;
     background-repeat: no-repeat;
     transition: opacity 0.15s;
-    cursor: pointer; */
-  }
+    cursor: pointer; 
+  } */
 
   .mobile-nav-toggle:hover,
   .mobile-nav-close:hover {
