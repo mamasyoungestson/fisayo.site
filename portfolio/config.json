@@ -1,28 +1,22 @@
 {
-  "title": "Fisayo Olashore",
-  "description": "",
-  "logo": "/upload/BackgroundPaperTexture_v2copy.png",
-  "footer": "Ⓒ Fisayo",
-  "favicon": "/upload/BackgroundPaperTexture_v2copy.png",
-  "navigation": [
-    {
-      "text": "FISAYO.",
-      "link": "/",
-      "position": "left",
-      "external": false
-    },
-    {
-      "text": "Instagram",
-      "link": "https://www.instagram.com/oluwafisayo.o",
-      "position": "right",
-      "external": true
-    },
-    {
-      "text": "Connect",
-      "desc": "for work",
-      "link": "mailto:fisayo.olashore@gmail.com",
-      "position": "right",
-      "external": true
-    }
-  ]
+	"title": "",
+	"description": "",
+	"logo": "",
+	"footer": "Ⓒ Fisayo",
+	"favicon": "/upload/BackgroundPaperTexture_v2copy.png",
+	"navigation": [
+		{
+			"text": "FISAYO.",
+			"link": "/",
+			"position": "left",
+			"external": false
+		},
+		{
+			"text": "CONNECT",
+			"desc": "for work",
+			"link": "mailto:oluwafisayo.o@protonmail.com",
+			"position": "right",
+			"external": true
+		}
+	]
 }

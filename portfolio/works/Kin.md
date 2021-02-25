@@ -1,13 +1,14 @@
 ---
 title: Kin
 date: 2019-09-25
-thumbnail: '/upload/Kin/kinthumb.jpg'
+thumbnail: "/upload/Kin/kinthumb.jpg"
 year: 2019
 categories:
-- CREATIVE DIRECTION / INTERFACE DESIGN / INTERACTION DESIGN
-description: A Case Study
+  - USER RESEARCH / PRODUCT THINKING / EXPERIENCE ARCHITECTURE / INTERFACE DESIGN / INTERACTION DESIGN
 
+description: A Case Study
 ---
+
 # Kin
 
 Child adoption made easier for parents, families, and institutions.
@@ -28,7 +29,6 @@ Given there was a lack of digital resources that solved problems related to chil
 
 With this Kin wants to play a major part in finding every child a home and overcome the problem of the decreasing adoption success rates throughout the world.
 
-
 ## 01 Learn — Research & Analysis
 
 There is reliable information that paints a vivid picture of the state of the adoption process. Adoption rates have been steadily decreasing in the U.S. and globally since 2005. Data shows that a decrease in adoption rates has a corresponding increase in the number of children placed for adoptions.
@@ -40,7 +40,7 @@ There is reliable information that paints a vivid picture of the state of the ad
 Some important information used in research 
 </p>
 
-Understanding some reports from senior officials of adoption organizations, several factors have affected adoption rates such as costs, laws, health, ethical issues, and much more. From my standpoint, I could agree with this. Before embarking on this project my perception of adoption was completely different from was it is now. You can say I was ignorant and even fearful of the process but now I am much more informed and confident about the adoption process. Sometimes I feel like I can give a lecture on this topic. Despite that, I still view adoptions as a very big step and an important step in someone's life and can be very intimidating. I needed to understand the perceptions of individuals to come up with solutions to make adoption rates more successful. 
+Understanding some reports from senior officials of adoption organizations, several factors have affected adoption rates such as costs, laws, health, ethical issues, and much more. From my standpoint, I could agree with this. Before embarking on this project my perception of adoption was completely different from was it is now. You can say I was ignorant and even fearful of the process but now I am much more informed and confident about the adoption process. Sometimes I feel like I can give a lecture on this topic. Despite that, I still view adoptions as a very big step and an important step in someone's life and can be very intimidating. I needed to understand the perceptions of individuals to come up with solutions to make adoption rates more successful.
 
 ### Understanding Perceptions
 
@@ -49,6 +49,7 @@ By analyzing available data I already began conceiving possible solutions. It wa
 Information gathered and interpreted echoed most of the information analyzed from reports, surveys, studies, numerical data, etc. Through investigation, it was important to now target the major types of users that would be using the application. There were major personas to consider for various use cases of the application.
 
 #### User Personas
+
 **A.** Individuals who are invested in the adoption process but are new to the whole process. These individuals are most times uninformed, afraid, confused, unsure, etc.
 **B.** Individuals who are invested in the adoption process but have done it in the past either successfully or unsuccessfully. These individuals are most times often better informed.
 **C.** Individuals that are uninterested or have not given much thought to adoptions. How can Kin make adoptions more attractive and increase the number of people interested and taking steps towards adoptions.
@@ -119,8 +120,7 @@ Our solutions for the major challenges can be broken down into two categories ma
 
 1\. **Connection Solution**: It aims to solve the issue of time and connects prospective adoptive parents/families with the child and birth parents with adoptive families. Users set up profiles with and the back-end matches parents and families together based on criteria and takes care of state-mandated/country-mandated background checks. It connects families and parents in a quicker, safe and secure digital environment with the help of modern technology. We do also aim that the accessibility and speed of the connection will attract more people to the viability of adoptions and make the process less painful and easier for parents and families. The connection solution also aims to lead to more safe and secure physical connections as well.
 
-2\. **Support Solution**: As mentioned earlier there are issues with the amount of exposure to information about the adoption process. The support solution provides information, guidance and important services needed for a successful adoption process. We make all information easy and accessible by seamlessly integrating help and support for our users into there daily lives. With the support solution, users can access information in the form of articles, blogs, videos, and guides. Users have quick access to professionals such as doctors, lawyers, financial planners, etc. Features we plan on releasing soon is a personal "concierge" for the adoption and build a strong community where individuals can help answer questions, share their experiences, and help offer support. 
-
+2\. **Support Solution**: As mentioned earlier there are issues with the amount of exposure to information about the adoption process. The support solution provides information, guidance and important services needed for a successful adoption process. We make all information easy and accessible by seamlessly integrating help and support for our users into there daily lives. With the support solution, users can access information in the form of articles, blogs, videos, and guides. Users have quick access to professionals such as doctors, lawyers, financial planners, etc. Features we plan on releasing soon is a personal "concierge" for the adoption and build a strong community where individuals can help answer questions, share their experiences, and help offer support.
 
 **These solutions are the best guess solutions. We are constantly getting feedback and testing our decisions to offer the best experience and solutions for our users and ultimately help improve adoptions.**
 
@@ -135,7 +135,6 @@ Our solutions for the major challenges can be broken down into two categories ma
 <p class="photoInfo">
 <b>Connection Solution:</b> Empowering birth parents, adoptive families, and adoption institutions to easily and accessibility connect. With this, we aim to attract more individuals to invest in adoptions and improve relationships during the adoption process to lead to higher success rates. 
 </p>
-
 
 <video autoplay playsinline loop muted crossorigin="anonymous">
   <source src="/upload/Kin/Support_1_ForWebsite(3-31-2020).mp4" type="video/mp4">
