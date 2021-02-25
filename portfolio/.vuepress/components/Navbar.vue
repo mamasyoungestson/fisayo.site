@@ -61,7 +61,7 @@
 			</ul>
 		</nav>
 
-		<!-- MOBILE DROPDOWN
+		<!-- MOBILE DROPDOWN -->
 		<div class="mobile-nav-head">
 			<nav v-if="navLinks" class="navigation left">
 				<ul>
@@ -78,14 +78,14 @@
 				</ul>
 			</nav>
 
-    
+			<!-- MOBILE NAV MENU !!!! ---->
 			<div class="mobile-nav-toggle" @click="toggleMobileNav">
-				<h4 class="moreBtn">Connect</h4>
-				<!-- It was MORE before brought down a menu 
+				<a href="mailto:oluwafisayo.o@protonmail.com"><h4 class="moreBtn">Connect</h4></a>
+				<!-- It was MORE before brought down a menu  -->
 			</div>
 		</div>
 
-		 <div class="mobile-nav" :class="{ 'mobile-nav--active': mobileNavActive }">
+		<!-- <div class="mobile-nav" :class="{ 'mobile-nav--active': mobileNavActive }">
 			<nav>
 				<ul @click="toggleMobileNav">
 					<router-link

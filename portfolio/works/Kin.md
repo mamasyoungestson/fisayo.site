@@ -13,9 +13,9 @@ description: A Case Study
 
 Child adoption made easier for parents, families, and institutions.
 
-![](/upload/Kin/Start.png)
+![ ](/upload/Kin/Start.png)
 
-<hr>
+---
 
 ## About Kin
 
@@ -33,8 +33,8 @@ With this Kin wants to play a major part in finding every child a home and overc
 
 There is reliable information that paints a vivid picture of the state of the adoption process. Adoption rates have been steadily decreasing in the U.S. and globally since 2005. Data shows that a decrease in adoption rates has a corresponding increase in the number of children placed for adoptions.
 
-![](/upload/Kin/Data1.jpg)
-![](/upload/Kin/Data2.jpg)
+![ ](/upload/Kin/Data1.jpg)
+![ ](/upload/Kin/Data2.jpg)
 
 <p class="photoInfo">
 Some important information used in research 
@@ -54,7 +54,7 @@ Information gathered and interpreted echoed most of the information analyzed fro
 **B.** Individuals who are invested in the adoption process but have done it in the past either successfully or unsuccessfully. These individuals are most times often better informed.
 **C.** Individuals that are uninterested or have not given much thought to adoptions. How can Kin make adoptions more attractive and increase the number of people interested and taking steps towards adoptions.
 
-<hr>
+---
 
 ## 02 Think — Ideation
 
@@ -72,7 +72,7 @@ To highlight the challenges:
 
 I aimed to come up with solutions that could be tested and iterated upon as soon as possible (a bulk of visual designs solutions were completed within a week). The process involved sketches, user experience architecture and visual strategy (user journeys, micro design systems, wireframes, prototypes).
 
-![](/upload/Kin/wireframes2-1.png)
+![ ](/upload/Kin/wireframes2-1.png)
 
 ### Designing The System
 
@@ -82,27 +82,27 @@ This process involved modular building of various parts of the system. When begi
 
 The adoption process can be scary and I created a color palette that would provide a mood to counteract that fearful feeling most people don't want to experience during the adoption process. I wanted to communicate that Kin will make the adoption process exciting and a joyous experience while also providing the best support along the way.
 
-![](/upload/Kin/DesigningTheSystem1.jpg)
+![ ](/upload/Kin/DesigningTheSystem1.jpg)
 
 #### Typography
 
 Kin needed typefaces that would be functional and appropriate with the current design communication. After exploration and testing, we chose the beautiful Abril Fatface and simple yet elegant Circular Std.
 
-![](/upload/Kin/DesigningTheSystem2.jpg)
+![ ](/upload/Kin/DesigningTheSystem2.jpg)
 
 #### Iconography
 
 The iconography style needed to unify with the current design direction and be able to be used in various use cases.
 
-![](/upload/Kin/DesigningTheSystem3.jpg)
+![ ](/upload/Kin/DesigningTheSystem3.jpg)
 
 #### Design Components
 
 The component design structure needed to be as versatile as possible to cover many use cases. As mentioned before, the importance of setting the foundation variables first allowed me to make informed and structured design decisions that matched the design direction and were in line with solving the user needs and project goals.
 
-![](/upload/Kin/Components.jpg)
+![ ](/upload/Kin/Components.jpg)
 
-<hr>
+---
 
 ## 03 Test
 
@@ -110,9 +110,9 @@ The component design structure needed to be as versatile as possible to cover ma
 
 Our goal was to design and test solutions as early as possible. User testing enabled us to figure out what worked and what didn't work. It provided great insight into the mind of the user and allowed us to focus on solving important user problems and challenges.
 
-![](/upload/Kin/DesignFastTestEarly.jpg)
+![ ](/upload/Kin/DesignFastTestEarly.jpg)
 
-<hr>
+---
 
 ## Design Solutions
 
@@ -140,14 +140,13 @@ Our solutions for the major challenges can be broken down into two categories ma
   <source src="/upload/Kin/Support_1_ForWebsite(3-31-2020).mp4" type="video/mp4">
 </video>
 
-![](/upload/Kin/Support.jpg)
+![ ](/upload/Kin/Support.jpg)
 
 <p class="photoInfo">
-<b>Support Solution:</b> Taking advantage of the accessibility of mobile applications to provide information and support <!-- (professional and expert services)-->throughout and after the adoption process. 
-</p>
+<b>Support Solution:</b> Taking advantage of the accessibility of mobile applications to provide information and support <!-- (professional and expert services)-->throughout and after the adoption process.</p>
 
-![](/upload/Kin/Screens.jpg)
+![ ](/upload/Kin/Screens.jpg)
 
-![](/upload/Kin/More_screens_signoff.jpg)
+![ ](/upload/Kin/More_screens_signoff.jpg)
 
-### You can learn more or just <a class="workAtag" href="mailto:fisayo.olashore@gmail.com">connect</a>
+### You can learn more or just <a class="workAtag" href="mailto:oluwafisayo.o@protonmail.com">connect</a>
